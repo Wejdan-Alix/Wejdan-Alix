@@ -17,7 +17,7 @@ I’m a technical professional with over three years of experience in systems ad
 ### 🛠️ Technical Toolkit
 * **Data Visualization:** Excel, Power BI (Power Query (M) , Dax , Data Modeling)
 * **Technical Systems:** SAP, Help Desk Management, Systems Administration
-* * **Database:** SQL (In Progress 🏗️)
+* **Database:** SQL (In Progress 🏗️)
 * **Security:** Cybersecurity Certified By Google 🔐
 * <a href="https://www.credly.com/badges/675097de-44f7-43dd-94af-5774ed548a86/public_url">
   <img src="https://images.credly.com/size/220x220/images/ef9f86ad-4e53-4dbc-8951-e4cab81ff09e/blob" width="150" height="150" alt="Credly Badge">
